@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Lucy Abel
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: DPhil student in Health Economics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Nuffield Department of Primary Care Health Sciences, University of Oxford
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cost-effectiveness analysis and quality of life research relating to women's health, primary healthcare and diagnostics. 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Cost-effectiveness research
+- Outcomes in pregnancy
+- Diagnostics and overdiagnosis
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: DPhil Health Economics
+    institution: University of Oxford
+    year: 2019 - 2022
+  - course: MSc Health Economics 
+    institution: University of York
+    year: 2015
+  - course: BSc Bioveterinary Sciences
+    institution: Royal Veterinary College
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:lucy.abel@phc.ox.ac.uk  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/littlerlabel
+- icon: orcid
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://orcid.org/0000-0001-5857-1269
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/lucyabel
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lucy is a health economist who researches the cost-effectiveness of treatments and diagnostics. Her approach uses quality-adjusted life years (QALYs) to value health outcomes, allowing the effectiveness of healthcare spending to be compared across disease areas. She uses both decision modelling and within-trial analysis to assess cost-effectiveness of a range of interventions, but has a particular interest in evaluating diagnostic tests. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Her DPhil research uses both qualitative and quantitative methods to investigate how health outcomes in pregnancy can be better represented in cost-effectiveness analysis.
